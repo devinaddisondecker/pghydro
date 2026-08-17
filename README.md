@@ -43,11 +43,6 @@ Postgresql 9.1+
 	psql mydatabase -c "CREATE EXTENSION pgh_hgm"
 	psql mydatabase -c "CREATE EXTENSION pgh_consistency"
 	psql mydatabase -c "CREATE EXTENSION pgh_output"
-	
-
-## Tutorial (v.6.6) - Also can be used for versions 6.2 or 6.4
-
-Youtube: https://www.youtube.com/channel/UCgkCUQ-i72bBY41a1bhVWyw
 
 ## Notes
 
@@ -59,7 +54,7 @@ PGHYDRO (extension for PostgreSQL/PostGIS) works better with PgQGIS PgHydroTools
 
 ## Authors
 
-Alexandre de Amorim Teixeira
+Devin Addison Decker
 
 ## Licence
 
